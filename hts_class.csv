@@ -1,0 +1,72 @@
+﻿840820,8408,Diesel/semi-diesel engines for vehicles,Engine/ICE,Propulsion
+840890,8408,Diesel/semi-diesel engines other,Engine/ICE,Propulsion
+840731,8407,Gas engines for vehicles ‚â§50cc,Engine/ICE,Propulsion
+840732,8407,Gas engines for vehicles 50-250cc,Engine/ICE,Propulsion
+840733,8407,Gas engines for vehicles 250-1000cc,Engine/ICE,Propulsion
+840734,8407,Gas engines for vehicles >1000cc,Engine/ICE,Propulsion
+840790,8407,Spark-ignition engines other,Engine/ICE,Propulsion
+840991,8409,Spark-ignition engine parts,Engine/ICE,Propulsion
+840999,8409,Diesel engine parts other,Engine/ICE,Propulsion
+841330,8413,Fuel/lubricating/cooling pumps,Engine/ICE,Propulsion
+850131,8501,DC motors/generators up to 750W,Electrical/EV,Propulsion
+850132,8501,DC motors/generators 750W-75KW,Electrical/EV,Propulsion
+850133,8501,DC motors/generators 75-375KW,Electrical/EV,Propulsion
+850134,8501,DC motors/generators over 375KW,Electrical/EV,Propulsion
+850152,8501,AC motors 750W-75KW multi-phase,Electrical/EV,Propulsion
+850153,8501,AC motors over 75KW multi-phase,Electrical/EV,Propulsion
+850161,8501,AC generators up to 75 KVA,Electrical/EV,Propulsion
+850440,8504,Static converters/ADP power supplies,Electrical/EV,Propulsion
+850710,8507,Lead-acid starter batteries,Electrical/EV,Propulsion
+850760,8507,Lithium-ion batteries,Electrical/EV,Propulsion
+850790,8507,Battery parts & separators,Electrical/EV,Propulsion
+854231,8542,Processors & controllers (ICs),Semiconductors,Electronics & Control
+854232,8542,Memory chips (ICs),Semiconductors,Electronics & Control
+854233,8542,Amplifiers (ICs),Semiconductors,Electronics & Control
+854239,8542,Integrated circuits other,Semiconductors,Electronics & Control
+854290,8542,IC & microassembly parts,Semiconductors,Electronics & Control
+870850,8708,Drive axles with differential,Drivetrain,Drivetrain & Suspension
+870840,8708,Gear boxes,Drivetrain,Drivetrain & Suspension
+870893,8708,Clutches & parts,Drivetrain,Drivetrain & Suspension
+848210,8482,Ball bearings,Drivetrain,Drivetrain & Suspension
+848220,8482,Tapered roller bearings,Drivetrain,Drivetrain & Suspension
+848310,8483,Transmission shafts & cranks,Drivetrain,Drivetrain & Suspension
+870830,8708,Brakes & servo-brakes parts,Brakes/Suspension,Drivetrain & Suspension
+870880,8708,Suspension shock absorbers,Brakes/Suspension,Drivetrain & Suspension
+732010,7320,Leaf springs iron/steel,Brakes/Suspension,Drivetrain & Suspension
+870894,8708,Steering wheels columns & boxes,Brakes/Suspension,Drivetrain & Suspension
+870600,8706,Chassis with engines,Body/Structural,Body & Interior
+870710,8707,Car bodies & cabs,Body/Structural,Body & Interior
+870790,8707,Vehicle bodies (trucks buses etc.),Body/Structural,Body & Interior
+870810,8708,Bumpers & parts,Body/Structural,Body & Interior
+870821,8708,Safety seat belts,Body/Structural,Body & Interior
+870822,8708,Windshields & vehicle windows,Body/Structural,Body & Interior
+870829,8708,Body parts & accessories other,Body/Structural,Body & Interior
+700711,7007,Tempered safety glass for vehicles,Body/Structural,Body & Interior
+700721,7007,Laminated safety glass for vehicles,Body/Structural,Body & Interior
+700910,7009,Rear-view mirrors,Body/Structural,Body & Interior
+940120,9401,Vehicle seats,Body/Structural,Body & Interior
+830230,8302,Metal fittings for vehicles,Body/Structural,Body & Interior
+392630,3926,Plastic fittings for furniture/vehicles,Body/Structural,Body & Interior
+401110,4011,Car tires (incl. station wagons),Tires,Wheels & Tires
+401120,4011,Bus/truck tires,Tires,Wheels & Tires
+401140,4011,Motorcycle tires,Tires,Wheels & Tires
+401190,4011,Pneumatic rubber tires other,Tires,Wheels & Tires
+870870,8708,Road wheels & parts,Tires,Wheels & Tires
+851110,8511,Spark plugs,Ignition/Starting,Electronics & Control
+851120,8511,Ignition magnetos & magnetic flywheels,Ignition/Starting,Electronics & Control
+851130,8511,Distributors & ignition coils,Ignition/Starting,Electronics & Control
+851140,8511,Starter motors & starter-generators,Ignition/Starting,Electronics & Control
+851150,8511,IC engine generators other,Ignition/Starting,Electronics & Control
+851180,8511,Ignition/starting equipment other,Ignition/Starting,Electronics & Control
+851190,8511,Ignition/starting equipment parts,Ignition/Starting,Electronics & Control
+851220,8512,Vehicle lighting/signaling equipment,Lighting/Wiring,Electronics & Control
+851230,8512,Vehicle sound signaling equipment,Lighting/Wiring,Electronics & Control
+851240,8512,Wipers defrosters & demisters,Lighting/Wiring,Electronics & Control
+851290,8512,Lighting/wiper equipment parts,Lighting/Wiring,Electronics & Control
+854430,8544,Insulated wiring sets for vehicles,Lighting/Wiring,Electronics & Control
+870891,8708,Radiators,Thermal/Exhaust,Propulsion
+870892,8708,Mufflers & exhaust pipes,Thermal/Exhaust,Propulsion
+841520,8415,Automotive air conditioners,Thermal/Exhaust,Propulsion
+842132,8421,Catalytic converters & particulate filters,Thermal/Exhaust,Propulsion
+870895,8708,Airbags & inflator systems,Body/Structural,Body & Interior
+870899,8708,Vehicle parts & accessories other,Body/Structural,Body & Interior
